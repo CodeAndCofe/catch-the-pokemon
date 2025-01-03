@@ -121,3 +121,7 @@ body
 {
 	transform: scale(1.5) translateX(-30px);
 }
+.end
+{
+	display: none;
+}
